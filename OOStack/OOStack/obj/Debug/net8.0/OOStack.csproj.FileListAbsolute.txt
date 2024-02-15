@@ -1,0 +1,15 @@
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\bin\Debug\net8.0\OOStack.exe
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\bin\Debug\net8.0\OOStack.deps.json
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\bin\Debug\net8.0\OOStack.runtimeconfig.json
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\bin\Debug\net8.0\OOStack.dll
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\bin\Debug\net8.0\OOStack.pdb
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.AssemblyInfoInputs.cache
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.AssemblyInfo.cs
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.csproj.CoreCompileInputs.cache
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.sourcelink.json
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.dll
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\refint\OOStack.dll
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.pdb
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\OOStack.genruntimeconfig.cache
+C:\Users\ITStudent2324\source\repos\OOStack\OOStack\obj\Debug\net8.0\ref\OOStack.dll
