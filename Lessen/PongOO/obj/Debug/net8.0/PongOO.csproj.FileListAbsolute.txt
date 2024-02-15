@@ -1,0 +1,15 @@
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\bin\Debug\net8.0\PongOO.exe
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\bin\Debug\net8.0\PongOO.deps.json
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\bin\Debug\net8.0\PongOO.runtimeconfig.json
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\bin\Debug\net8.0\PongOO.dll
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\bin\Debug\net8.0\PongOO.pdb
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.AssemblyInfoInputs.cache
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.AssemblyInfo.cs
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.csproj.CoreCompileInputs.cache
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.sourcelink.json
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.dll
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\refint\PongOO.dll
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.pdb
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\PongOO.genruntimeconfig.cache
+C:\Users\ITStudent2324\source\repos\Lessen\PongOO\obj\Debug\net8.0\ref\PongOO.dll
