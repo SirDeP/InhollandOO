@@ -1,0 +1,14 @@
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\bin\Debug\net8.0\Pong.exe
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\bin\Debug\net8.0\Pong.deps.json
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\bin\Debug\net8.0\Pong.runtimeconfig.json
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\bin\Debug\net8.0\Pong.dll
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\bin\Debug\net8.0\Pong.pdb
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.AssemblyInfoInputs.cache
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.AssemblyInfo.cs
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.csproj.CoreCompileInputs.cache
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.dll
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\refint\Pong.dll
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.pdb
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\Pong.genruntimeconfig.cache
+C:\Users\ITStudent2324\source\repos\Lessen\Pong\obj\Debug\net8.0\ref\Pong.dll

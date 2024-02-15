@@ -1,0 +1,14 @@
+
+*.targets
+*.props
+*.cache
+*.pdb
+*.dll
+Stack/.vs/Stack/v17/.suo
+*.sln
+*.BuildWithSkipAnalyzers
+*.bin
+*.v2
+*.vsidx
+ConsoleApp1/.vs/ConsoleApp1/v17/.suo
+*.exe
