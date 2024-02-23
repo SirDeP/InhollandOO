@@ -1,0 +1,15 @@
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\bin\Debug\net7.0\RapportModule.exe
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\bin\Debug\net7.0\RapportModule.deps.json
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\bin\Debug\net7.0\RapportModule.runtimeconfig.json
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\bin\Debug\net7.0\RapportModule.dll
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\bin\Debug\net7.0\RapportModule.pdb
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.AssemblyInfoInputs.cache
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.AssemblyInfo.cs
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.csproj.CoreCompileInputs.cache
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.sourcelink.json
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.dll
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\refint\RapportModule.dll
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.pdb
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\RapportModule.genruntimeconfig.cache
+C:\Users\vwint\Source\Repos\ZIESCHERPER_TESTS_H1_RapportModule\TestDryRun\obj\Debug\net7.0\ref\RapportModule.dll
