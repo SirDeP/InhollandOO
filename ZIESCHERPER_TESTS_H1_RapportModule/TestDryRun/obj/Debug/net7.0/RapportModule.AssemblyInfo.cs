@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RapportModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e1e58bd6815c3515713f39098c42ef5257a053")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96fec2cd5d3f7bec2b919336f0149e230e6af9c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RapportModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RapportModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
