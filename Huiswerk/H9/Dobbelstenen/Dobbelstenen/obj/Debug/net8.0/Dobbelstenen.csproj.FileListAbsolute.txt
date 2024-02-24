@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\bin\Debug\net8.0\Dobbelstenen.exe
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\bin\Debug\net8.0\Dobbelstenen.deps.json
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\bin\Debug\net8.0\Dobbelstenen.runtimeconfig.json
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\bin\Debug\net8.0\Dobbelstenen.dll
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\bin\Debug\net8.0\Dobbelstenen.pdb
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.AssemblyInfo.cs
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.sourcelink.json
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.dll
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\refint\Dobbelstenen.dll
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.pdb
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\Dobbelstenen.genruntimeconfig.cache
+C:\Users\vwint\source\repos\Huiswerk\H9\Dobbelstenen\Dobbelstenen\obj\Debug\net8.0\ref\Dobbelstenen.dll

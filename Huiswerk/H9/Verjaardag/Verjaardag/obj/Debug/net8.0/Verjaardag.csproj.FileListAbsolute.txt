@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\bin\Debug\net8.0\Verjaardag.exe
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\bin\Debug\net8.0\Verjaardag.deps.json
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\bin\Debug\net8.0\Verjaardag.runtimeconfig.json
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\bin\Debug\net8.0\Verjaardag.dll
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\bin\Debug\net8.0\Verjaardag.pdb
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.AssemblyInfo.cs
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.sourcelink.json
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.dll
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\refint\Verjaardag.dll
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.pdb
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\Verjaardag.genruntimeconfig.cache
+C:\Users\vwint\source\repos\Huiswerk\H9\Verjaardag\Verjaardag\obj\Debug\net8.0\ref\Verjaardag.dll
