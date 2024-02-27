@@ -13,9 +13,9 @@ namespace GelinkteStack
         StackElement Top = null;
         public void Push(int Getal)
         {
-            StackElement NieuweTop = new StackElement();
-            NieuweTop.Data = Getal;
-            NieuweTop.Next = Top;
+            StackElement NieuweTop = new StackElement(Getal, Top);
+            //NieuweTop.Data = Getal;
+            //NieuweTop.Next = Top;
             Top = NieuweTop;
         }
         public int Pop()

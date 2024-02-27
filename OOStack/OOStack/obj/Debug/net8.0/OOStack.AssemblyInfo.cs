@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+516edf12bd29dcb3df58eae3d27ef91c8c551204")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+673dcecdefb4aa01541dbdbe3a61da82ee77a509")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

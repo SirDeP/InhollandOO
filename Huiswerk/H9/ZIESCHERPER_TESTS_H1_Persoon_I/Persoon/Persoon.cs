@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Persoon
 {
@@ -17,8 +12,8 @@ namespace Persoon
         public DateTime GeboorteDatum
         {
             get { return geboortedatum; }
-            set 
-            { 
+            set
+            {
                 if (value < minimum)
                     geboortedatum = DateTime.Now;
                 else

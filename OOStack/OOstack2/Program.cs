@@ -11,17 +11,30 @@
             {
                 Console.Write("Geef commando:");
                 Commando = Console.ReadLine();
-                if (Commando == "Push")
+                try
                 {
-                    Console.Write("Geef Getal:");
-                    MyStack.Push(int.Parse(Console.ReadLine()));
+
+                    if (Commando == "Push")
+                    {
+                        Console.Write("Geef Getal:");
+                        MyStack.Push(int.Parse(Console.ReadLine()));
+                    }
+                    else if (Commando == "Pop")
+                    {
+                        Console.WriteLine(MyStack.Pop());
+                    }
+                    else if (Commando == "Print")
+                        MyStack.Print();
+                    else throw new Exception("Onbekend Commando");
                 }
-                else if (Commando == "Pop")
+                catch (Exception e)
+                { 
+                    Console.WriteLine(e.Message); 
+                }
+                finally
                 {
-                    Console.WriteLine(MyStack.Pop());
+                    Console.WriteLine("Op naar het volgende commando");
                 }
-                else if (Commando == "Print")
-                    MyStack.Print();
             }
         }
     }
