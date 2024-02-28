@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\bin\Debug\net8.0\AbstractStack.exe
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\bin\Debug\net8.0\AbstractStack.deps.json
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\bin\Debug\net8.0\AbstractStack.runtimeconfig.json
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\bin\Debug\net8.0\AbstractStack.dll
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\bin\Debug\net8.0\AbstractStack.pdb
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.AssemblyInfo.cs
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.sourcelink.json
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.dll
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\refint\AbstractStack.dll
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.pdb
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\AbstractStack.genruntimeconfig.cache
+C:\Users\vwint\source\repos\AbstractStack\AbstractStack\obj\Debug\net8.0\ref\AbstractStack.dll

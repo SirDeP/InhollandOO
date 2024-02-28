@@ -21,9 +21,9 @@
                         }
                         else if (Commando == "Pop")
                         {
-                            MyQueue.DeQueue();
-                            
-                        }
+                        Console.WriteLine(MyQueue.DeQueue());
+
+                    }
                         else if (Commando == "Print")
                             MyQueue.Print();
                         else throw new Exception("Onbekend Commando");

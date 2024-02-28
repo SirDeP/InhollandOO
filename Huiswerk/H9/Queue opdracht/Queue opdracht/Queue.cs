@@ -20,17 +20,20 @@ namespace Queue_opdracht
             Tail = NieuwTail;
             if (Head == null) { Head = Tail; }
         }
-        public void DeQueue()
+        public int DeQueue()
         {
             if (Head != null)
             {
+                int getal = Head.Data;
                 Head = Head.Prev;
                 Head.Next = null;
                 Console.WriteLine("DeQueued");
+                return getal;
             }
             else
             {
                 Console.WriteLine("Queue is leeg");
+                return 0;
             }
         }
         public void Print()
