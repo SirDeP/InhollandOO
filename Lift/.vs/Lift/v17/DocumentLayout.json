@@ -11,16 +11,12 @@
       "RelativeMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|solutionrelative:lift\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|c:\\users\\vwint\\source\\repos\\lift\\lift\\richting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|solutionrelative:lift\\richting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|c:\\users\\vwint\\source\\repos\\lift\\lift\\paneel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|solutionrelative:lift\\paneel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|c:\\users\\vwint\\source\\repos\\lift\\lift\\liftbesturingssysteem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|solutionrelative:lift\\liftbesturingssysteem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|c:\\users\\vwint\\source\\repos\\lift\\lift\\richting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45501EAE-AE50-4241-AF11-352F5D0AB9B7}|Lift\\Lift.csproj|solutionrelative:lift\\richting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Paneel.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Paneel.cs",
-              "RelativeDocumentMoniker": "Lift\\Paneel.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Paneel.cs",
-              "RelativeToolTip": "Lift\\Paneel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:04:41.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Liftbesturingssysteem.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Liftbesturingssysteem.cs",
               "RelativeDocumentMoniker": "Lift\\Liftbesturingssysteem.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Liftbesturingssysteem.cs",
               "RelativeToolTip": "Lift\\Liftbesturingssysteem.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowDEAAAAJAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwDMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T09:03:44.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Richting.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Richting.cs",
               "RelativeDocumentMoniker": "Lift\\Richting.cs",
@@ -79,7 +62,7 @@
               "RelativeDocumentMoniker": "Lift\\Lift.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Lift.cs",
               "RelativeToolTip": "Lift\\Lift.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAiwFwAAAAJAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwF4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T09:01:55.826Z",
               "EditorCaption": ""
@@ -92,14 +75,10 @@
               "RelativeDocumentMoniker": "Lift\\Program.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\Lift\\Lift\\Program.cs",
               "RelativeToolTip": "Lift\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T09:00:40.666Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

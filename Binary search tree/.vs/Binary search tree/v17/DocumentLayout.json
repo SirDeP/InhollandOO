@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|c:\\users\\vwint\\source\\repos\\binary search tree\\binary search tree\\knoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|solutionrelative:binary search tree\\knoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|c:\\users\\vwint\\source\\repos\\binary search tree\\binary search tree\\binaireboom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|solutionrelative:binary search tree\\binaireboom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|c:\\users\\vwint\\source\\repos\\binary search tree\\binary search tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|solutionrelative:binary search tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|c:\\users\\vwint\\source\\repos\\binary search tree\\binary search tree\\binaireboom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|solutionrelative:binary search tree\\binaireboom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|c:\\users\\vwint\\source\\repos\\binary search tree\\binary search tree\\knoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AAAA9-9951-4115-B304-313A30AF8857}|Binary search tree\\Binary search tree.csproj|solutionrelative:binary search tree\\knoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BinaireBoom.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\BinaireBoom.cs",
               "RelativeDocumentMoniker": "Binary search tree\\BinaireBoom.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\BinaireBoom.cs",
               "RelativeToolTip": "Binary search tree\\BinaireBoom.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAG0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T13:41:30.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Knoop.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\Knoop.cs",
               "RelativeDocumentMoniker": "Binary search tree\\Knoop.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\Knoop.cs",
               "RelativeToolTip": "Binary search tree\\Knoop.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwCAAAAAdAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T13:38:25.814Z",
               "EditorCaption": ""
@@ -56,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\Program.cs",
               "RelativeDocumentMoniker": "Binary search tree\\Program.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\Program.cs",
-              "RelativeToolTip": "Binary search tree\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBMAAAAAAAAA",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\Binary search tree\\Binary search tree\\Program.cs*",
+              "RelativeToolTip": "Binary search tree\\Program.cs*",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T13:37:44.056Z",
               "EditorCaption": ""

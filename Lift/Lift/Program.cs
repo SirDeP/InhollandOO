@@ -5,12 +5,11 @@
         static void Main(string[] args)
         {
             Liftbesturingssysteem liftbesturingssysteem = new Liftbesturingssysteem();
-            Paneel paneel = new Paneel();
 
             // Simulatie van liftverzoeken via het paneel
-            paneel.Verzoek(3, liftbesturingssysteem);
-            paneel.Verzoek(5, liftbesturingssysteem);
-            paneel.Verzoek(2, liftbesturingssysteem);
+            liftbesturingssysteem.RegistreerVerzoek(3);
+            liftbesturingssysteem.RegistreerVerzoek(5);
+            liftbesturingssysteem.RegistreerVerzoek(2);
 
             // Simulatie van liftbeweging
             liftbesturingssysteem.PrioriteitGevenAanLift();
