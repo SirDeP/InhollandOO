@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\Sorting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F71B4EF3-4660-48F4-B56E-D29E32D0C3FF}|Sorting\\Sorting.csproj|c:\\users\\vwint\\source\\repos\\sorting\\sorting\\insertionsortarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71B4EF3-4660-48F4-B56E-D29E32D0C3FF}|Sorting\\Sorting.csproj|solutionrelative:sorting\\insertionsortarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F71B4EF3-4660-48F4-B56E-D29E32D0C3FF}|Sorting\\Sorting.csproj|c:\\users\\vwint\\source\\repos\\sorting\\sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71B4EF3-4660-48F4-B56E-D29E32D0C3FF}|Sorting\\Sorting.csproj|solutionrelative:sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InsertionSortArray.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Sorting\\Sorting\\InsertionSortArray.cs",
+              "RelativeDocumentMoniker": "Sorting\\InsertionSortArray.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\Sorting\\Sorting\\InsertionSortArray.cs",
+              "RelativeToolTip": "Sorting\\InsertionSortArray.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:27:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\Sorting\\Sorting\\Program.cs",
               "RelativeDocumentMoniker": "Sorting\\Program.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\Sorting\\Sorting\\Program.cs",
               "RelativeToolTip": "Sorting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T14:22:50.57Z",
               "EditorCaption": ""
