@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\bin\Debug\net8.0\Binary search tree.exe
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\bin\Debug\net8.0\Binary search tree.deps.json
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\bin\Debug\net8.0\Binary search tree.runtimeconfig.json
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\bin\Debug\net8.0\Binary search tree.dll
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\bin\Debug\net8.0\Binary search tree.pdb
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.AssemblyInfo.cs
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.sourcelink.json
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.dll
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\refint\Binary search tree.dll
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.pdb
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\Binary search tree.genruntimeconfig.cache
+C:\Users\vwint\source\repos\Binary search tree\Binary search tree\obj\Debug\net8.0\ref\Binary search tree.dll
