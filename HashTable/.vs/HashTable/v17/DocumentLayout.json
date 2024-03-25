@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\HashTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44DB5F1-6666-4F81-86CB-F5B90A1477B1}|HashTable\\HashTable.csproj|c:\\users\\vwint\\source\\repos\\hashtable\\hashtable\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44DB5F1-6666-4F81-86CB-F5B90A1477B1}|HashTable\\HashTable.csproj|solutionrelative:hashtable\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44DB5F1-6666-4F81-86CB-F5B90A1477B1}|HashTable\\HashTable.csproj|c:\\users\\vwint\\source\\repos\\hashtable\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44DB5F1-6666-4F81-86CB-F5B90A1477B1}|HashTable\\HashTable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\HashTable\\HashTable\\HashTable.cs",
+              "RelativeDocumentMoniker": "HashTable\\HashTable.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\HashTable\\HashTable\\HashTable.cs",
+              "RelativeToolTip": "HashTable\\HashTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:16:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\HashTable\\HashTable\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable\\Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\HashTable\\HashTable\\Program.cs",
+              "RelativeToolTip": "HashTable\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:58:25.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

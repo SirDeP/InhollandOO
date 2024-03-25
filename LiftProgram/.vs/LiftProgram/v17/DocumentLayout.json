@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B62E4A-6ECE-41F3-BEF4-CCB654BE0DC8}|LiftProgram\\LiftProgram.csproj|c:\\users\\vwint\\source\\repos\\liftprogram\\liftprogram\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B62E4A-6ECE-41F3-BEF4-CCB654BE0DC8}|LiftProgram\\LiftProgram.csproj|solutionrelative:liftprogram\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B62E4A-6ECE-41F3-BEF4-CCB654BE0DC8}|LiftProgram\\LiftProgram.csproj|c:\\users\\vwint\\source\\repos\\liftprogram\\liftprogram\\liftenbesturing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B62E4A-6ECE-41F3-BEF4-CCB654BE0DC8}|LiftProgram\\LiftProgram.csproj|solutionrelative:liftprogram\\liftenbesturing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B62E4A-6ECE-41F3-BEF4-CCB654BE0DC8}|LiftProgram\\LiftProgram.csproj|c:\\users\\vwint\\source\\repos\\liftprogram\\liftprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B62E4A-6ECE-41F3-BEF4-CCB654BE0DC8}|LiftProgram\\LiftProgram.csproj|solutionrelative:liftprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lift.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\LiftProgram\\Lift.cs",
+              "RelativeDocumentMoniker": "LiftProgram\\Lift.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\LiftProgram\\Lift.cs",
+              "RelativeToolTip": "LiftProgram\\Lift.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwv1sAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:17:19.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LiftenBesturing.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\LiftProgram\\LiftenBesturing.cs",
+              "RelativeDocumentMoniker": "LiftProgram\\LiftenBesturing.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\LiftProgram\\LiftenBesturing.cs",
+              "RelativeToolTip": "LiftProgram\\LiftenBesturing.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:14:49.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\LiftProgram\\Program.cs",
+              "RelativeDocumentMoniker": "LiftProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\LiftProgram\\LiftProgram\\Program.cs",
+              "RelativeToolTip": "LiftProgram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:13:28.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
