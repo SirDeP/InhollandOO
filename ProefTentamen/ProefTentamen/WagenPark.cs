@@ -9,8 +9,9 @@ namespace ProefTentamen
 {
     internal class WagenPark
     {
+        public decimal TotaalbedragTemp { get; set; }
         Stack Autos = new Stack();
-        public void printAutos()
+        public void PrintAutos()
         {
             Autos.Print();
         }
@@ -22,7 +23,7 @@ namespace ProefTentamen
 
         public void TotaalBedrag()
         {
-            Console.WriteLine((Autos.Totaalbedrag()).ToString("#.##"));
+            Autos.PrintTotaalbedrag();
         }
     }
 }

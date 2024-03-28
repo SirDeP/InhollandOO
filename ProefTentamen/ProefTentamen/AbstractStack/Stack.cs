@@ -9,7 +9,7 @@ namespace AbstractStack
 {
     internal class Stack
     {
-        EenStackElement Top = null;
+        EenStackElement Top = null!;
 
         public void Push(int Getal)
         {
@@ -33,7 +33,7 @@ namespace AbstractStack
             Top = NieuweTop;
         }
 
-        public EenStackElement Pop()
+        public EenStackElement? Pop()
         {
             if (Top != null)
             {
@@ -49,9 +49,10 @@ namespace AbstractStack
             Top.PrintStack();
         }
 
-        public decimal Totaalbedrag()
+        public void PrintTotaalbedrag()
         {
-            return Top.PrintDagwaarde();
+            decimal temp = 0;
+            Console.WriteLine(Top.PrintDagwaarde(temp).ToString("#.##"));
         }
     }
 }

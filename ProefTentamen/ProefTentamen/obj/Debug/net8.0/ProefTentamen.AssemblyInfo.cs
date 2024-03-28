@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProefTentamen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7626c6068820717463b74719165c6ef7e812c2ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd2cc51d6b4f05698dab6232e391dcdb1c4b4e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProefTentamen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProefTentamen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

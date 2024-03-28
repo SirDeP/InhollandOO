@@ -6,11 +6,5 @@ using System.Threading.Tasks;
 
 namespace ProefTentamen
 {
-    internal enum Status
-    {
-        Vrij, 
-        Onderhoud, 
-        Gereserveerd, 
-        Verhuurd
-    }
+
 }

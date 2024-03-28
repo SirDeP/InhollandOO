@@ -1,18 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AbstractStack
+﻿namespace AbstractStack
 {
     internal abstract class EenStackElement
     {
-        decimal temp = 0;
+
         private EenStackElement next;
         public EenStackElement Next { get { return next; } }
 
-        public EenStackElement(EenStackElement stackElement) 
+        public EenStackElement(EenStackElement stackElement)
         {
             this.next = stackElement;
         }
@@ -25,15 +19,15 @@ namespace AbstractStack
                 Next.PrintStack();
             }
         }
-        public decimal PrintDagwaarde()
+        public decimal PrintDagwaarde(decimal temp2)
         {
-            temp = Printdagwaarde();
-            
+            temp2 += Printdagwaarde();
             if (Next != null)
             {
-                Next.PrintDagwaarde();
+                temp2 = Next.PrintDagwaarde(temp2);
             }
-            return temp;
+            return temp2;
+
         }
 
         public virtual void PrintWaarde()

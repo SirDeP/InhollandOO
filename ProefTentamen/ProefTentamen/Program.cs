@@ -22,26 +22,25 @@ namespace ProefTentamen
             //wagenPark.printAutos(temp);
 
             string Commando = "";
-            string Invoer = "";
             while (Commando != "S")
             {
                 Console.WriteLine("Geef Commando");
                 try
                 {
-                    Commando = Console.ReadLine();
+                    Commando = Console.ReadLine()!;
                     if (Commando == "A")
                     {
                         Auto temp = new Auto();
-                        //Console.Write("Geef het Kenteken:");
-                        //temp.Kenteken = Console.ReadLine();
-                        //Console.Write("Geef de Kilometerstand:");
-                        //temp.Kilometerstand = int.Parse(Console.ReadLine());
+                        Console.Write("Geef het Kenteken:");
+                        temp.Kenteken = Console.ReadLine();
+                        Console.Write("Geef de Kilometerstand:");
+                        temp.Kilometerstand = int.Parse(Console.ReadLine()!);
                         Console.Write("Geef de Dagwaarde:");
-                        temp.Dagwaarde = decimal.Parse(Console.ReadLine());
-                        //Console.Write("Geef de Verhuurprijs:");
-                        //temp.VerhuurPrijs = decimal.Parse(Console.ReadLine());
-                        //Console.Write("Geef het Merk:");
-                        //temp.Merk = Console.ReadLine();
+                        temp.Dagwaarde = decimal.Parse(Console.ReadLine()!);
+                        Console.Write("Geef de Verhuurprijs:");
+                        temp.VerhuurPrijs = decimal.Parse(Console.ReadLine()!);
+                        Console.Write("Geef het Merk:");
+                        temp.Merk = Console.ReadLine();
                         wagenPark.AddAuto(temp);
                     }
                     else if (Commando == "K")
@@ -59,6 +58,9 @@ namespace ProefTentamen
                         temp.Postcode = Console.ReadLine();
                         Console.Write("Geef het telefoonnummer:");
                         temp.TelefoonNummer = Console.ReadLine();
+                        Console.Write("Geef het rijbewijs:");
+                        temp.Rijbewijs = Console.ReadLine();
+                        temp.IsBetrouwbaar();
                         ////EenStackElement element = MyStack.Pop();
                         //if (element != null)
                         //{
@@ -71,7 +73,7 @@ namespace ProefTentamen
                     }
                     else if (Commando == "P")
                     {
-                        wagenPark.printAutos();
+                        wagenPark.PrintAutos();
                     }
                     else if (Commando == "Pd")
                     {
