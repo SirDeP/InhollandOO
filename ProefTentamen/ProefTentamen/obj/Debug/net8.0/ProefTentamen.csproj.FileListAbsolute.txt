@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\bin\Debug\net8.0\ProefTentamen.exe
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\bin\Debug\net8.0\ProefTentamen.deps.json
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\bin\Debug\net8.0\ProefTentamen.runtimeconfig.json
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\bin\Debug\net8.0\ProefTentamen.dll
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\bin\Debug\net8.0\ProefTentamen.pdb
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.AssemblyInfo.cs
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.sourcelink.json
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.dll
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\refint\ProefTentamen.dll
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.pdb
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ProefTentamen.genruntimeconfig.cache
+C:\Users\vwint\source\repos\ProefTentamen\ProefTentamen\obj\Debug\net8.0\ref\ProefTentamen.dll
