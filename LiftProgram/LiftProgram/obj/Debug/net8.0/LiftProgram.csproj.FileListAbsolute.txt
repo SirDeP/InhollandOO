@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\bin\Debug\net8.0\LiftProgram.exe
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\bin\Debug\net8.0\LiftProgram.deps.json
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\bin\Debug\net8.0\LiftProgram.runtimeconfig.json
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\bin\Debug\net8.0\LiftProgram.dll
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\bin\Debug\net8.0\LiftProgram.pdb
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.AssemblyInfo.cs
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.sourcelink.json
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.dll
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\refint\LiftProgram.dll
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.pdb
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\LiftProgram.genruntimeconfig.cache
+C:\Users\vwint\source\repos\LiftProgram\LiftProgram\obj\Debug\net8.0\ref\LiftProgram.dll

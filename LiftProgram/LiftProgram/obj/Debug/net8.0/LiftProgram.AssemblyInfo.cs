@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiftProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0616491deca17404c1322747b160d46744df3a62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74476e9178eb59f21cf4a979170757e52e546302")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiftProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiftProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GelinkteStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d544d410e03314b81a678732ac8f69eb5b1e0fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74476e9178eb59f21cf4a979170757e52e546302")]
 [assembly: System.Reflection.AssemblyProductAttribute("GelinkteStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GelinkteStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

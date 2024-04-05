@@ -1,0 +1,14 @@
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\bin\Debug\net8.0\QueueOpdr.exe
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\bin\Debug\net8.0\QueueOpdr.deps.json
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\bin\Debug\net8.0\QueueOpdr.runtimeconfig.json
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\bin\Debug\net8.0\QueueOpdr.dll
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\bin\Debug\net8.0\QueueOpdr.pdb
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.AssemblyInfoInputs.cache
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.AssemblyInfo.cs
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.csproj.CoreCompileInputs.cache
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.dll
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\refint\QueueOpdr.dll
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.pdb
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\QueueOpdr.genruntimeconfig.cache
+C:\Users\ITStudent2324\source\repos\Lessen\QueueOpdr\obj\Debug\net8.0\ref\QueueOpdr.dll

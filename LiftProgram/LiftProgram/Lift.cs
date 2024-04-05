@@ -14,17 +14,17 @@ namespace LiftProgram
         public string Richting;
         public string DeurStatus;
         public bool[] VerzoekenLijstOmhoog;
-        public bool[] VerzeokenLijstOmlaag;
+        public bool[] VerzoekenLijstOmlaag;
     
         public Lift(int LiftID)
         {
             liftID = LiftID;
             VerzoekenLijstOmhoog = new bool[AantalVerdiepingen];
-            VerzeokenLijstOmlaag = new bool[AantalVerdiepingen];
+            VerzoekenLijstOmlaag = new bool[AantalVerdiepingen];
             for (int i = 0; i < AantalVerdiepingen; i++)
             {
                 VerzoekenLijstOmhoog[i] = false;
-                VerzeokenLijstOmlaag[i] = false;
+                VerzoekenLijstOmlaag[i] = false;
             }
             HuidigeVerdieping = 0;
             Richting = "Omhoog";
@@ -40,7 +40,7 @@ namespace LiftProgram
             }
             else
             {
-                VerzeokenLijstOmlaag[Verdieping] = true;
+                VerzoekenLijstOmlaag[Verdieping] = true;
             }
         }
 
@@ -50,7 +50,22 @@ namespace LiftProgram
             Console.WriteLine(liftID + ": Aankomst op verdieping" + HuidigeVerdieping);
         }
 
-        // aantalverzoeken
+        public int AantalVerzoeken()
+        {
+            int Aantal = 0;
+            for (int i = 0; i < AantalVerdiepingen; i++)
+            {
+                if (VerzoekenLijstOmhoog[i])
+                {
+                    Aantal++;
+                }
+                if (VerzoekenLijstOmlaag[i])
+                {
+                    Aantal++;
+                }
+            }
+            return Aantal;
+        }
 
         public void ActiveerLift()
         {
@@ -65,11 +80,20 @@ namespace LiftProgram
                         LaadPassagiers();
                     }
                 }
-                Richting = "Omlaag"
+                Richting = "Omlaag";
             }
             else
             {
-
+                for(int i = AantalVerdiepingen - 1; i >= 0; i--)
+                {
+                    if (VerzoekenLijstOmlaag[i])
+                    {
+                        VerzoekenLijstOmlaag[i] = false;
+                        GaNaarVerdieping(i);
+                        LaadPassagiers();
+                    }
+                }
+                Richting = "Omhoog";
             }
         }
 
@@ -100,13 +124,24 @@ namespace LiftProgram
 
         private void SluitDeur()
         {
-            DeurStatus = "Sluit";
+            DeurStatus = "Dicht";
             Console.WriteLine(liftID + ": Deur is dicht");
         }
 
+        public void MaakVerzoekenLijstenLeeg()
+        {
+            for (int i = AantalVerdiepingen; i >= 0; i--)
+            {
+                VerzoekenLijstOmlaag[i] = false;
+                VerzoekenLijstOmhoog[i] = false;
+            }
+        }
         public void NoodStop()
         {
-
+            SluitDeur();
+            GaNaarVerdieping(0);
+            OpenDeur();
+            MaakVerzoekenLijstenLeeg();
         }
     }
 
