@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Queue opdracht")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef89ded486eabde0ce3a09e2369fdbeddb8f970a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594e19ee552a3b93d2ac55931eb8fbb9fd274494")]
 [assembly: System.Reflection.AssemblyProductAttribute("Queue opdracht")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Queue opdracht")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

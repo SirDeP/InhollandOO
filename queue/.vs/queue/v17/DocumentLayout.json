@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\queue\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE6803B8-B24D-4AB9-B6A5-05BFB11862DD}|queue\\queue.csproj|c:\\users\\vwint\\source\\repos\\queue\\queue\\queueelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6803B8-B24D-4AB9-B6A5-05BFB11862DD}|queue\\queue.csproj|solutionrelative:queue\\queueelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6803B8-B24D-4AB9-B6A5-05BFB11862DD}|queue\\queue.csproj|c:\\users\\vwint\\source\\repos\\queue\\queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6803B8-B24D-4AB9-B6A5-05BFB11862DD}|queue\\queue.csproj|solutionrelative:queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE6803B8-B24D-4AB9-B6A5-05BFB11862DD}|queue\\queue.csproj|c:\\users\\vwint\\source\\repos\\queue\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE6803B8-B24D-4AB9-B6A5-05BFB11862DD}|queue\\queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\queue\\queue\\Queue.cs",
+              "RelativeDocumentMoniker": "queue\\Queue.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\queue\\queue\\Queue.cs",
+              "RelativeToolTip": "queue\\Queue.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:04:00.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QueueElement.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\queue\\queue\\QueueElement.cs",
+              "RelativeDocumentMoniker": "queue\\QueueElement.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\queue\\queue\\QueueElement.cs",
+              "RelativeToolTip": "queue\\QueueElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:00:12.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\queue\\queue\\Program.cs",
               "RelativeDocumentMoniker": "queue\\Program.cs",
               "ToolTip": "C:\\Users\\vwint\\source\\repos\\queue\\queue\\Program.cs",
               "RelativeToolTip": "queue\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T09:58:10.095Z",
               "EditorCaption": ""
