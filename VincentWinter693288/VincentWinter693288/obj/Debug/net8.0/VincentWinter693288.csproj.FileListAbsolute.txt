@@ -1,0 +1,15 @@
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.AssemblyInfoInputs.cache
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.AssemblyInfo.cs
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.csproj.CoreCompileInputs.cache
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.sourcelink.json
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\bin\Debug\net8.0\VincentWinter693288.exe
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\bin\Debug\net8.0\VincentWinter693288.deps.json
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\bin\Debug\net8.0\VincentWinter693288.runtimeconfig.json
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\bin\Debug\net8.0\VincentWinter693288.dll
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\bin\Debug\net8.0\VincentWinter693288.pdb
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.dll
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\refint\VincentWinter693288.dll
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.pdb
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\VincentWinter693288.genruntimeconfig.cache
+C:\Users\ITStudent2324\source\repos\VincentWinter693288\VincentWinter693288\obj\Debug\net8.0\ref\VincentWinter693288.dll
