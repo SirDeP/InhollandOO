@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.AssemblyInfo.cs
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.sourcelink.json
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\bin\Debug\net8.0\ProjectRobotica.exe
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\bin\Debug\net8.0\ProjectRobotica.deps.json
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\bin\Debug\net8.0\ProjectRobotica.runtimeconfig.json
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\bin\Debug\net8.0\ProjectRobotica.dll
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\bin\Debug\net8.0\ProjectRobotica.pdb
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.dll
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\refint\ProjectRobotica.dll
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.pdb
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ProjectRobotica.genruntimeconfig.cache
+C:\Users\vwint\source\repos\ProjectRobotica\ProjectRobotica\obj\Debug\net8.0\ref\ProjectRobotica.dll

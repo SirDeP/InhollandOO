@@ -1,0 +1,15 @@
+C:\Users\vwint\source\repos\RaspiController\RaspiController\bin\Debug\net8.0\RaspiController.exe
+C:\Users\vwint\source\repos\RaspiController\RaspiController\bin\Debug\net8.0\RaspiController.deps.json
+C:\Users\vwint\source\repos\RaspiController\RaspiController\bin\Debug\net8.0\RaspiController.runtimeconfig.json
+C:\Users\vwint\source\repos\RaspiController\RaspiController\bin\Debug\net8.0\RaspiController.dll
+C:\Users\vwint\source\repos\RaspiController\RaspiController\bin\Debug\net8.0\RaspiController.pdb
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.AssemblyInfo.cs
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.sourcelink.json
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.dll
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\refint\RaspiController.dll
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.pdb
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\RaspiController.genruntimeconfig.cache
+C:\Users\vwint\source\repos\RaspiController\RaspiController\obj\Debug\net8.0\ref\RaspiController.dll

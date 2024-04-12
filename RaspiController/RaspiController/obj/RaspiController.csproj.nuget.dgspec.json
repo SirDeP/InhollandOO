@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vwint\\source\\repos\\VincentWinter693288\\VincentWinter693288\\VincentWinter693288.csproj": {}
+    "C:\\Users\\vwint\\source\\repos\\RaspiController\\RaspiController\\RaspiController.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vwint\\source\\repos\\VincentWinter693288\\VincentWinter693288\\VincentWinter693288.csproj": {
+    "C:\\Users\\vwint\\source\\repos\\RaspiController\\RaspiController\\RaspiController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vwint\\source\\repos\\VincentWinter693288\\VincentWinter693288\\VincentWinter693288.csproj",
-        "projectName": "VincentWinter693288",
-        "projectPath": "C:\\Users\\vwint\\source\\repos\\VincentWinter693288\\VincentWinter693288\\VincentWinter693288.csproj",
+        "projectUniqueName": "C:\\Users\\vwint\\source\\repos\\RaspiController\\RaspiController\\RaspiController.csproj",
+        "projectName": "RaspiController",
+        "projectPath": "C:\\Users\\vwint\\source\\repos\\RaspiController\\RaspiController\\RaspiController.csproj",
         "packagesPath": "C:\\Users\\vwint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vwint\\source\\repos\\VincentWinter693288\\VincentWinter693288\\obj\\",
+        "outputPath": "C:\\Users\\vwint\\source\\repos\\RaspiController\\RaspiController\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

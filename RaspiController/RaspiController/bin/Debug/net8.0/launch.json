@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "adapter": "ssh.exe",
+  "adapterArgs": " sirdep@192.168.178.40 -T DISPLAY=:0 ~/.vs-debugger/vs2022/vsdbg  --engineLogging=./VSLinuxDbg/RaspiController/_vsdbg.log",
+  "configurations": [
+    {
+      "name": "Debug on Linux",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "dotnet",
+      "args": [
+        "RaspiController.dll"
+      ],
+      "cwd": "./VSLinuxDbg/RaspiController",
+      "console": "integratedTerminal"
+    }
+  ]
+}
