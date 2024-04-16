@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectRobotica
+namespace ProjectRobotica.Controller
 {
     internal class ControllerState
     {
@@ -23,17 +23,17 @@ namespace ProjectRobotica
             return buttons[(byte)button];
         }
 
-        public short GetAxisState(ControllerAxis _axis)
+        public short GetAxisState(ControllerAxis Axis)
         {
-            return axis[(byte)_axis];
+            return axis[(byte)Axis];
         }
 
         public void Print()
-        { 
-            for (int i  = 0; i < axis.Length; i++) 
+        {
+            for (int i = 0; i < axis.Length; i++)
             {
-                string temp = String.Format(" a{0}:{1}", Convert.ToString(i), Convert.ToString(axis[i]).PadRight(6));
-                Console.Write(temp); 
+                string temp = string.Format(" a{0}:{1}", Convert.ToString(i), Convert.ToString(axis[i]).PadRight(6));
+                Console.Write(temp);
             }
             for (int i = 0; i < buttons.Length; i++)
             {

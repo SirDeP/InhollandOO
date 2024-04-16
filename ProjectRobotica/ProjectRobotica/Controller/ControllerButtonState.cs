@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectRobotica
+namespace ProjectRobotica.Controller
 {
-    internal enum ControllerEvents
+    internal enum ControllerButtonState
     {
-        None = 0x00,
-        ButtonAction = 0x01,
-        AxisMoved = 0x02
+        Released = 0x00,
+        Pressed  = 0x01
     }
 }

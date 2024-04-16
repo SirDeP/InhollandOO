@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Linux.Bluetooith\**" />
+    <EmbeddedResource Remove="Linux.Bluetooith\**" />
+    <None Remove="Linux.Bluetooith\**" />
+  </ItemGroup>
+
 </Project>

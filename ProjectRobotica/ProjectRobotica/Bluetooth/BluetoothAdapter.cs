@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectRobotica
+namespace ProjectRobotica.Bluetooth
 {
-    internal enum ControllerButtonState
+    internal class BluetoothAdapter
     {
-        Pressed = 0x01,
-        Released = 0x00
+        public BluetoothAdapter() { }
+
     }
 }

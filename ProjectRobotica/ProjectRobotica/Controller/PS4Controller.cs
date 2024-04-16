@@ -1,40 +1,37 @@
 using System.Diagnostics;
 using System.Diagnostics.Metrics;
 
-namespace ProjectRobotica
+
+namespace ProjectRobotica.Controller
 {
     internal class PS4Controller
     {
         FileStream ControllerStream;
 
-        int counter = 0;
-        bool debug = false;
+        bool debug;
 
         public List<byte> deviceBytes = new List<byte>();
 
         public ControllerState state = new ControllerState();
 
-        public PS4Controller(string devicefile, bool deviceDebug = false)
+        public PS4Controller(string devicefile, bool deviceDebug)
         {
             try
             {
                 ControllerStream = File.Open(devicefile, FileMode.Open);
                 debug = deviceDebug;
-                
             }
-            catch (Exception e)
+            catch
             {
-                //Don't throw the exception, just print it.
-                Console.WriteLine("Failed to initialize input device: " + devicefile);
-                Console.WriteLine(e.Message);
+                throw new Exception($"Failed to initialize input device: {devicefile}");
             }
 
         }
 
-        public void update()
+        public bool Update()
         {
             //the output buffer
-            //bool output = false;
+            bool output = false;
 
             // The size of the data packet we're expecting
             const int packetSize = 8;
@@ -51,13 +48,17 @@ namespace ProjectRobotica
                 if (bytesRead == packetSize)
                 {
                     // Set output to true since an update has happened
-                    //output = true;
-
-                    // Clear existing bytes list.
-                    deviceBytes.Clear();
-
-                    // Insert bytes into deviceBytes list (in order)
-                    deviceBytes.AddRange(buffer);
+                    
+                    byte[] temp = deviceBytes.ToArray();
+                    //int temp2 = BitConverter.ToInt32(temp, 0);
+                    if (buffer != temp)
+                    {
+                        output = true;
+                        
+                        deviceBytes.Clear();// Clear existing bytes list.
+                        
+                        deviceBytes.AddRange(buffer);// Insert bytes into deviceBytes list (in order)
+                    }
                 }
             }
             catch (IOException e)
@@ -65,10 +66,6 @@ namespace ProjectRobotica
                 // Handle any IO exceptions (e.g., end of stream)
                 Console.WriteLine("Error reading from stream: " + e.Message);
             }
-
-
-            //Reset counter
-            counter = 0;
 
             //Grab the event type identifier byte and cast it to xEvents enum
             ControllerEvents eventType = (ControllerEvents)deviceBytes.ToArray()[6]; // Event stream example: 58-50-BD-00-01-80-02-05 -- 02 is event type (Axis)
@@ -96,14 +93,20 @@ namespace ProjectRobotica
             {
                 ControllerAxis axis = (ControllerAxis)deviceBytes.ToArray()[7];
                 byte[] cbytes = { deviceBytes.ToArray()[4], deviceBytes.ToArray()[5] };
-                Int16 value = BitConverter.ToInt16(cbytes, 0);
+                short value = BitConverter.ToInt16(cbytes, 0);
                 state.axis[(byte)axis] = value;
                 if (debug) Console.WriteLine(axis.ToString() + " moved to " + value.ToString());
+            }
+            else if (eventType == ControllerEvents.None)
+            {
+                Console.WriteLine("No Event Found");
             }
             else
             {
                 if (debug) Console.WriteLine("Unknown event occured(this is normal immediately after connection)");
             }
+
+            return output;
         }
 
         public void Print()

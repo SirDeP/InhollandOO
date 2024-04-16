@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="AbstractStack\AbstractStack\Program.cs" />
+    <Compile Remove="AbstractStack\**" />
+    <EmbeddedResource Remove="AbstractStack\**" />
+    <None Remove="AbstractStack\**" />
   </ItemGroup>
 
 </Project>
