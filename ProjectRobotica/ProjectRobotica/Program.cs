@@ -31,17 +31,15 @@ namespace ProjectRobotica
 
 
                 var pin5 = SystemGpio.Bcm05;
-                var pin6 = SystemGpio.Bcm06;
                 var pin4 = SystemGpio.Bcm04;
-                var pin14 = SystemGpio.Bcm14;
                 var pin15 = SystemGpio.Bcm15;
                 var pin17 = SystemGpio.Bcm17;
                 var pin27 = SystemGpio.Bcm27;
                 var pin22 = SystemGpio.Bcm22;
-                var pin23 = SystemGpio.Bcm23;
                 var pin24 = SystemGpio.Bcm24;
 
-                var pin16 = SystemGpio.Bcm16;
+                var pin20 = SystemGpio.Bcm20; // Bumperlinks
+                var pin21 = SystemGpio.Bcm21; // Bumperrechts
 
                 IO.GpioSetMode(pin5, PinMode.Input);
                 //IO.GpioSetMode(pin6, PinMode.Input);
@@ -56,7 +54,8 @@ namespace ProjectRobotica
                 IO.GpioSetPullUpDown(pin22, GpioPullMode.Down);
                 //IO.GpioSetPullUpDown(pin2, GpioPullMode.Down);
 
-                IO.GpioSetMode(pin16, PinMode.Input);
+                IO.GpioSetMode(pin20, PinMode.Input);
+                IO.GpioSetMode(pin21, PinMode.Input);
 
                 SystemGpio[] systemGpio =
                 [
@@ -70,7 +69,8 @@ namespace ProjectRobotica
                     pin22,// 7 x
                     //pin23,// 8 //
                     pin24,// 9 x
-                    pin16,
+                    pin20,
+                    pin21,
                 ];
 
                 uint speed = 500000;
