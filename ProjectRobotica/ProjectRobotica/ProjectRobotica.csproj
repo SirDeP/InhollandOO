@@ -8,9 +8,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Bluetooth\**" />
     <Compile Remove="Linux.Bluetooith\**" />
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="Bluetooth\**" />
     <EmbeddedResource Remove="Linux.Bluetooith\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="Bluetooth\**" />
     <None Remove="Linux.Bluetooith\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="BluetoothAdapter.cs" />
+    <Compile Remove="bluez.DBus.cs" />
+    <Compile Remove="BluezConstants.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tmds.DBus" Version="0.17.0" />
+    <PackageReference Include="Tmds.DBus.Protocol" Version="0.17.0" />
+    <PackageReference Include="Unosquare.PiGpio" Version="0.3.1" />
   </ItemGroup>
 
 </Project>

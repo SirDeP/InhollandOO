@@ -48,6 +48,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Tmds.DBus": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "Tmds.DBus.Protocol": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "Unosquare.PiGpio": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
