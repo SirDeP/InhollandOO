@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F3F881-9095-43A3-A717-75D2B9557120}|linuxbluetooth\\linuxbluetooth.csproj|c:\\users\\vwint\\source\\repos\\bluetoothdbus\\linuxbluetooth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F3F881-9095-43A3-A717-75D2B9557120}|linuxbluetooth\\linuxbluetooth.csproj|solutionrelative:linuxbluetooth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B02FCEF-C09B-4774-8761-B5C92FB7C660}|BluetoothDbus\\BluetoothDbus.csproj|c:\\users\\vwint\\source\\repos\\bluetoothdbus\\bluetoothdbus\\bluez.dbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B02FCEF-C09B-4774-8761-B5C92FB7C660}|BluetoothDbus\\BluetoothDbus.csproj|solutionrelative:bluetoothdbus\\bluez.dbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919D1FC6-D295-469E-A4D3-C5D696E704DD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\vwint\\source\\repos\\bluetoothdbus\\consoleapp1\\bluez.dbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D1FC6-D295-469E-A4D3-C5D696E704DD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bluez.dbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B02FCEF-C09B-4774-8761-B5C92FB7C660}|BluetoothDbus\\BluetoothDbus.csproj|c:\\users\\vwint\\source\\repos\\bluetoothdbus\\bluetoothdbus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B02FCEF-C09B-4774-8761-B5C92FB7C660}|BluetoothDbus\\BluetoothDbus.csproj|solutionrelative:bluetoothdbus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919D1FC6-D295-469E-A4D3-C5D696E704DD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\vwint\\source\\repos\\bluetoothdbus\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D1FC6-D295-469E-A4D3-C5D696E704DD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bluez.DBus.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\BluetoothDbus\\bluez.DBus.cs",
+              "RelativeDocumentMoniker": "BluetoothDbus\\bluez.DBus.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\BluetoothDbus\\bluez.DBus.cs",
+              "RelativeToolTip": "BluetoothDbus\\bluez.DBus.cs",
+              "ViewState": "AQIAAO8CAAAAAAAAAAAewPcCAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:22:42.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\linuxbluetooth\\Program.cs",
+              "RelativeDocumentMoniker": "linuxbluetooth\\Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\linuxbluetooth\\Program.cs",
+              "RelativeToolTip": "linuxbluetooth\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:35:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bluez.DBus.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\ConsoleApp1\\bluez.DBus.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\bluez.DBus.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\ConsoleApp1\\bluez.DBus.cs",
+              "RelativeToolTip": "ConsoleApp1\\bluez.DBus.cs",
+              "ViewState": "AQIAAPwBAAAAAAAAAIA3wCMCAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:23:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\BluetoothDbus\\Program.cs",
+              "RelativeDocumentMoniker": "BluetoothDbus\\Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\BluetoothDbus\\Program.cs",
+              "RelativeToolTip": "BluetoothDbus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:22:43.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\BluetoothDbus\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:59:27.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

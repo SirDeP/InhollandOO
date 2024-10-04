@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrjRobotica-Motors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e53f885f5cc88ec3a7d05184882f3bace4d7b5fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+128bb8e1f9ab2a5c820f2c66159065609408dad4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrjRobotica-Motors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrjRobotica-Motors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

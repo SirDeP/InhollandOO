@@ -7,36 +7,12 @@
       "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|c:\\users\\vwint\\source\\repos\\projectrobotica\\projectrobotica\\gpiofunctions\\motorcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\gpiofunctions\\motorcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|c:\\users\\vwint\\source\\repos\\projectrobotica\\projectrobotica\\controller\\controlleraxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\controller\\controlleraxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\bluez.DBus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectRobotica\\Bluetooth\\bluez.DBus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|c:\\users\\vwint\\source\\repos\\projectrobotica\\projectrobotica\\controller\\controllerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\controller\\controllerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|c:\\users\\vwint\\source\\repos\\projectrobotica\\projectrobotica\\controller\\ps4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\controller\\ps4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\BluetoothAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectRobotica\\Bluetooth\\BluetoothAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\BluezConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectRobotica\\Bluetooth\\BluezConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|c:\\users\\vwint\\source\\repos\\projectrobotica\\projectrobotica\\controller\\controllerbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\controller\\controllerbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|c:\\users\\vwint\\source\\repos\\projectrobotica\\projectrobotica\\gpiofunctions\\motorcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6031C4C2-96ED-4B31-AA40-4BCF51BCAED4}|ProjectRobotica\\ProjectRobotica.csproj|solutionrelative:projectrobotica\\gpiofunctions\\motorcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,33 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Program.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Program.cs",
-              "RelativeToolTip": "ProjectRobotica\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAkwEgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:01:31.347Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MotorControls.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
-              "RelativeToolTip": "ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Title": "PS4Controller.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\PS4Controller.cs",
+              "RelativeDocumentMoniker": "ProjectRobotica\\Controller\\PS4Controller.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\PS4Controller.cs",
+              "RelativeToolTip": "ProjectRobotica\\Controller\\PS4Controller.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEsAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:23:29.194Z",
+              "WhenOpened": "2024-06-13T12:13:04.333Z",
               "EditorCaption": ""
             },
             {
@@ -81,87 +43,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ControllerState.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\ControllerState.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Controller\\ControllerState.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\ControllerState.cs",
-              "RelativeToolTip": "ProjectRobotica\\Controller\\ControllerState.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:40:18.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PS4Controller.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\PS4Controller.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Controller\\PS4Controller.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\PS4Controller.cs",
-              "RelativeToolTip": "ProjectRobotica\\Controller\\PS4Controller.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:11:07.391Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ControllerAxis.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\ControllerAxis.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Controller\\ControllerAxis.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\ControllerAxis.cs",
-              "RelativeToolTip": "ProjectRobotica\\Controller\\ControllerAxis.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Title": "MotorControls.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
+              "RelativeDocumentMoniker": "ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
+              "RelativeToolTip": "ProjectRobotica\\GPIOFunctions\\MotorControls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:03:47.758Z"
+              "WhenOpened": "2024-06-12T10:59:22.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControllerButtons.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\ControllerButtons.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Controller\\ControllerButtons.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Controller\\ControllerButtons.cs",
-              "RelativeToolTip": "ProjectRobotica\\Controller\\ControllerButtons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectRobotica\\Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Program.cs",
+              "RelativeToolTip": "ProjectRobotica\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwGMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:03:40.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BluezConstants.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\BluezConstants.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Bluetooth\\BluezConstants.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\BluezConstants.cs",
-              "RelativeToolTip": "ProjectRobotica\\Bluetooth\\BluezConstants.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T09:26:59.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "bluez.DBus.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\bluez.DBus.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Bluetooth\\bluez.DBus.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\bluez.DBus.cs",
-              "RelativeToolTip": "ProjectRobotica\\Bluetooth\\bluez.DBus.cs",
-              "ViewState": "AQIAAFQCAAAAAAAAAAAIwLYCAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:48:27.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BluetoothAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\BluetoothAdapter.cs",
-              "RelativeDocumentMoniker": "ProjectRobotica\\Bluetooth\\BluetoothAdapter.cs",
-              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRobotica\\ProjectRobotica\\Bluetooth\\BluetoothAdapter.cs",
-              "RelativeToolTip": "ProjectRobotica\\Bluetooth\\BluetoothAdapter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T13:14:20.609Z"
+              "WhenOpened": "2024-06-12T10:57:00.404Z",
+              "EditorCaption": ""
             }
           ]
         }

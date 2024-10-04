@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectRobotica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41c15b9917802035d83eab8857c5e42850b23377")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+128bb8e1f9ab2a5c820f2c66159065609408dad4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectRobotica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectRobotica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

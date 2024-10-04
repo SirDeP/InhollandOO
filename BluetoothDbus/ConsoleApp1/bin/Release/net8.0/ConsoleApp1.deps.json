@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Tmds.DBus": "0.18.0",
+          "Tmds.DBus.Protocol": "0.18.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "System.IO.Pipelines/8.0.0": {
+        "runtime": {
+          "lib/net8.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Tmds.DBus/0.18.0": {
+        "runtime": {
+          "lib/net6.0/Tmds.DBus.dll": {
+            "assemblyVersion": "0.18.0.0",
+            "fileVersion": "0.18.0.0"
+          }
+        }
+      },
+      "Tmds.DBus.Protocol/0.18.0": {
+        "dependencies": {
+          "System.IO.Pipelines": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Tmds.DBus.Protocol.dll": {
+            "assemblyVersion": "0.18.0.0",
+            "fileVersion": "0.18.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IO.Pipelines/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FHNOatmUq0sqJOkTx+UF/9YK1f180cnW5FVqnQMvYUN0elp6wFzbtPSiqbo1/ru8ICp43JM1i7kKkk6GsNGHlA==",
+      "path": "system.io.pipelines/8.0.0",
+      "hashPath": "system.io.pipelines.8.0.0.nupkg.sha512"
+    },
+    "Tmds.DBus/0.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FxXFfDiFCTq3O/u6dnp7SIHpeZrE36T7/+y2xzb6loK+77RQZ0y8uda1UgzEw3CRJxQdq4nqXXAPIuR+Ql7LLg==",
+      "path": "tmds.dbus/0.18.0",
+      "hashPath": "tmds.dbus.0.18.0.nupkg.sha512"
+    },
+    "Tmds.DBus.Protocol/0.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rpatdnT2yQCOKrdEANg7IPeOg/V45Df7qKf6cIz8FxVdLMnE/79C84osS8Mqcak45OnyJvjvojBN74n3PzZjjQ==",
+      "path": "tmds.dbus.protocol/0.18.0",
+      "hashPath": "tmds.dbus.protocol.0.18.0.nupkg.sha512"
+    }
+  }
+}

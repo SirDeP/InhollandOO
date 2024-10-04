@@ -1,0 +1,2 @@
+C:\Users\semih\source\repos\ProjectRob\bin\Release\net8.0\publish\linux-arm64\ProjectRob.pdb
+C:\Users\semih\source\repos\ProjectRob\bin\Release\net8.0\publish\linux-arm64\ProjectRob

@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\controller\\ps4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:controller\\ps4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\controller\\controllerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:controller\\controllerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\controller\\controlleraxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:controller\\controlleraxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\controller\\controllerbuttonstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:controller\\controllerbuttonstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\controller\\controllerbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:controller\\controllerbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\controller\\controllerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:controller\\controllerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\models\\coordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:models\\coordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\gpiofunctions\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:gpiofunctions\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\gpiofunctions\\motorcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:gpiofunctions\\motorcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\gpiofunctions\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:gpiofunctions\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\projectrob.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:projectrob.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|c:\\users\\vwint\\source\\repos\\projectrob\\projectrob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B48739B-B294-4B2C-9A64-9A870F042662}|ProjectRob.csproj|solutionrelative:projectrob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerAxis.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerAxis.cs",
+              "RelativeDocumentMoniker": "Controller\\ControllerAxis.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerAxis.cs",
+              "RelativeToolTip": "Controller\\ControllerAxis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:49:17.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControllerEvents.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerEvents.cs",
+              "RelativeDocumentMoniker": "Controller\\ControllerEvents.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerEvents.cs",
+              "RelativeToolTip": "Controller\\ControllerEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:50.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControllerButtonState.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerButtonState.cs",
+              "RelativeDocumentMoniker": "Controller\\ControllerButtonState.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerButtonState.cs",
+              "RelativeToolTip": "Controller\\ControllerButtonState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControllerButtons.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerButtons.cs",
+              "RelativeDocumentMoniker": "Controller\\ControllerButtons.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerButtons.cs",
+              "RelativeToolTip": "Controller\\ControllerButtons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:45.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectRob",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\ProjectRob.csproj",
+              "RelativeDocumentMoniker": "ProjectRob.csproj",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\ProjectRob.csproj",
+              "RelativeToolTip": "ProjectRob.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T09:40:24.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoordModel.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Models\\CoordModel.cs",
+              "RelativeDocumentMoniker": "Models\\CoordModel.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Models\\CoordModel.cs",
+              "RelativeToolTip": "Models\\CoordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:01:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\GPIOFunctions\\Direction.cs",
+              "RelativeDocumentMoniker": "GPIOFunctions\\Direction.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\GPIOFunctions\\Direction.cs",
+              "RelativeToolTip": "GPIOFunctions\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:36:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerState.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerState.cs",
+              "RelativeDocumentMoniker": "Controller\\ControllerState.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\ControllerState.cs",
+              "RelativeToolTip": "Controller\\ControllerState.cs",
+              "ViewState": "AQIAAAUAAABMF+1CsvIwwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:24:53.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PS4Controller.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\PS4Controller.cs",
+              "RelativeDocumentMoniker": "Controller\\PS4Controller.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Controller\\PS4Controller.cs",
+              "RelativeToolTip": "Controller\\PS4Controller.cs",
+              "ViewState": "AQIAAFoAAACgF0mBwukpwGUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:14:01.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\GPIOFunctions\\Sensor.cs",
+              "RelativeDocumentMoniker": "GPIOFunctions\\Sensor.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\GPIOFunctions\\Sensor.cs",
+              "RelativeToolTip": "GPIOFunctions\\Sensor.cs",
+              "ViewState": "AQIAAAEAAAAAjC6X9tEXwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:51:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAOgAAABAuriUbHEqwDYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:26:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectRob.csproj",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\ProjectRob.csproj",
+              "RelativeDocumentMoniker": "ProjectRob.csproj",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\ProjectRob.csproj",
+              "RelativeToolTip": "ProjectRob.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T09:56:28.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotorControls.cs",
+              "DocumentMoniker": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\GPIOFunctions\\MotorControls.cs",
+              "RelativeDocumentMoniker": "GPIOFunctions\\MotorControls.cs",
+              "ToolTip": "C:\\Users\\vwint\\source\\repos\\ProjectRob\\GPIOFunctions\\MotorControls.cs",
+              "RelativeToolTip": "GPIOFunctions\\MotorControls.cs",
+              "ViewState": "AQIAADIAAAAAedGCkz3/v0YAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:28:16.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

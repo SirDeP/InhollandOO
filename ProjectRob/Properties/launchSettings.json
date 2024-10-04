@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ProjectRob": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "Windows"
+    }
+  }
+}

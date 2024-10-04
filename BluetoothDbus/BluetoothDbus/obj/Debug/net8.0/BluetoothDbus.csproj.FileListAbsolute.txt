@@ -1,0 +1,6 @@
+C:\Users\vwint\source\repos\BluetoothDbus\BluetoothDbus\obj\Debug\net8.0\BluetoothDbus.csproj.AssemblyReference.cache
+C:\Users\vwint\source\repos\BluetoothDbus\BluetoothDbus\obj\Debug\net8.0\BluetoothDbus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwint\source\repos\BluetoothDbus\BluetoothDbus\obj\Debug\net8.0\BluetoothDbus.AssemblyInfoInputs.cache
+C:\Users\vwint\source\repos\BluetoothDbus\BluetoothDbus\obj\Debug\net8.0\BluetoothDbus.AssemblyInfo.cs
+C:\Users\vwint\source\repos\BluetoothDbus\BluetoothDbus\obj\Debug\net8.0\BluetoothDbus.csproj.CoreCompileInputs.cache
+C:\Users\vwint\source\repos\BluetoothDbus\BluetoothDbus\obj\Debug\net8.0\BluetoothDbus.sourcelink.json

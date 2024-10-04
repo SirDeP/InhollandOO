@@ -73,7 +73,7 @@ namespace ProjectRobotica.Controller
             //Check for button event
             if (eventType == ControllerEvents.ButtonAction)
             {
-                ControllerButtons button = (ControllerButtons)deviceBytes.ToArray()[7];                       // Event stream example: F4-37-BE-00-01-00-01-05 -- 05 is button ID
+                ControllerButtons button = (ControllerButtons)deviceBytes.ToArray()[7];               // Event stream example: F4-37-BE-00-01-00-01-05 -- 05 is button ID
                 ControllerButtonState buttonAction = (ControllerButtonState)deviceBytes.ToArray()[4]; // F4-37-BE-00-01-00-01-05 -- The first 01 is ButtonState
                 if (debug) Console.Write(button.ToString());
 
